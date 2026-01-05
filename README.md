@@ -1,6 +1,6 @@
 # 1 Fahrradseitenbeleuchtung mit Elektrolumineszenz
 
-Dieses Projekt beinhaltet eine nachbaubare Lösung, um eine Seitenbeleuchtung an Fahrrädern mit Elektrolumineszenz zu realisieren. Zu dem Projekt gehört unter anderem ein SMD-Platinenlayout, ein Gehäuselayout und ein Programmcode [3]. Diese README stellt das Projekt vor. Die Datei Anleitung zeigt eine Möglichkeit, wie ein Nachbau des ganzen erfolgen kann. Dazu sind sämtliche Unterlagen mit angehängt. Jegliche Inhalte dieses Projektes stehen unter der CC BY-NC-SA 4.0 Lizenz.
+Dieses Projekt beinhaltet eine nachbaubare Lösung, um eine Seitenbeleuchtung an Fahrrädern mit Elektrolumineszenz zu realisieren. Zu dem Projekt gehört unter anderem ein SMD-Platinenlayout, ein Gehäuselayout und ein Programmcode [3]. Diese README stellt das Projekt vor. Die Datei [Anleitung](Anleitung.md) zeigt eine Möglichkeit, wie ein Nachbau des ganzen erfolgen kann. Dazu sind sämtliche Unterlagen mit angehängt. Jegliche Inhalte dieses Projektes stehen unter der CC BY-NC-SA 4.0 Lizenz.
 
 # 2 Mehr Licht für mehr Sicherheit
 
